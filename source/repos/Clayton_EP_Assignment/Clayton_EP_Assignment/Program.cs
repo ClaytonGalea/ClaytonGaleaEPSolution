@@ -8,6 +8,7 @@ namespace Clayton_EP_Assignment
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            Console.WriteLine("This is a test");
 
             var app = builder.Build();
 
