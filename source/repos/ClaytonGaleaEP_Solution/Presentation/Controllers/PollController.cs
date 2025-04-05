@@ -24,12 +24,15 @@ namespace Presentation.Controllers
         public IActionResult Create(Poll poll)
         {    
             _repository.CreatePoll(poll);
+            TempData["SuccessMessage"] = "Poll created successfully!";
             return RedirectToAction("Index");
+
         }
 
         public IActionResult Index()
         {
             var polls = _repository.GetAllPolls().OrderByDescending(p => p.DateCreated);
+            
             return View(polls);
         }
 

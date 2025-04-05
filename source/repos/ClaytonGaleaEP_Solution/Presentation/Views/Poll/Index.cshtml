@@ -1,24 +1,38 @@
 ﻿@model IEnumerable<Domain.Models.Poll>
 
-<h2>All Polls</h2>
+<h2 class="mb-4"><u>All Polls</u></h2>
 
-<ul>
-    @foreach (var poll in Model)
-    {
-        <li>
-            <strong>Title: @poll.Title</strong> 
-            <br />
-            <strong>Option1Text: @poll.Option1Text</strong>
-            <br />
-            <strong>Option2Text: @poll.Option2Text</strong>
-            <br />
-            <strong>Option3Text: @poll.Option3Text</strong>
-            <br />
-            <strong>DateCreated: @poll.DateCreated</strong> 
-            <br />
-            <a asp-controller="Poll" asp-action="Vote" asp-route-id="@poll.Id">Vote</a>
-            <br />
-            <p>---------------------------------------------------</p>
-        </li>
-    }
-</ul>
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (Model == null)
+{
+    <div class="alert alert-info">No polls created yet.</div>
+}
+else
+{
+    <div class="d-flex flex-column gap-3">
+        @foreach (var poll in Model)
+        {
+            <div class="col">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title"><strong>Title:</strong> @poll.Title</h5>
+                        <p class="card-text">
+                            <strong>Option 1:</strong> @poll.Option1Text <br />
+                            <strong>Option 2:</strong> @poll.Option2Text <br />
+                            <strong>Option 3:</strong> @poll.Option3Text <br />
+                            <strong>Date Created:</strong> @poll.DateCreated.ToString("dd/MM/yyyy HH:mm")
+                        </p>
+                        <a asp-controller="Poll" asp-action="Vote" asp-route-id="@poll.Id" class="btn btn-primary">Vote</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
