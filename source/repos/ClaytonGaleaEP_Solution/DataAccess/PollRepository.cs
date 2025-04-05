@@ -1,6 +1,8 @@
 ﻿using DataAccess.DataContext;
 using Domain.Models;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,6 +27,11 @@ namespace DataAccess
 
             _context.Polls.Add(poll);
             _context.SaveChanges();
+        }
+
+        public IEnumerable<Poll> GetAllPolls()
+        {
+            return _context.Polls;
         }
     }
 }

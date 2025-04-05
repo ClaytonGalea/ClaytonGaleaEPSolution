@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Domain.Models.Poll>
+
+<h2>All Polls</h2>
+
+<ul>
+    @foreach (var poll in Model)
+    {
+        <li>
+            <strong>Title: @poll.Title</strong> 
+            <br />
+            <strong>Option1Text: @poll.Option1Text</strong>
+            <br />
+            <strong>Option2Text: @poll.Option2Text</strong>
+            <br />
+            <strong>Option3Text: @poll.Option3Text</strong>
+            <br />
+            <strong>DateCreated: @poll.DateCreated</strong> 
+            <br />
+            <a asp-controller="Poll" asp-action="Vote" asp-route-id="@poll.Id">Vote</a>
+            <br />
+            <p>---------------------------------------------------</p>
+        </li>
+    }
+</ul>

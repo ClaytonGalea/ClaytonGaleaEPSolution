@@ -26,5 +26,12 @@ namespace Presentation.Controllers
             _repository.CreatePoll(poll);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Index()
+        {
+            var polls = _repository.GetAllPolls().OrderByDescending(p => p.DateCreated);
+            return View(polls);
+        }
+
     }
 }
