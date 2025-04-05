@@ -1,0 +1,25 @@
+﻿@model Domain.Models.Poll
+
+@if (Model == null)
+{
+    <h3>@ViewBag.Message</h3>
+}
+else
+{
+    <h2>Vote on: @Model.Title</h2>
+
+    <form asp-action="Vote" method="post">
+
+        <div>
+            <label><input type="radio" name="selectedOption" value="1" /> @Model.Option1Text</label>
+        </div>
+        <div>
+            <label><input type="radio" name="selectedOption" value="2" /> @Model.Option2Text</label>
+        </div>
+        <div>
+            <label><input type="radio" name="selectedOption" value="3" /> @Model.Option3Text</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Vote</button>
+    </form>
+}

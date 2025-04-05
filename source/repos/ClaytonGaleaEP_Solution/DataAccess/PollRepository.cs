@@ -33,5 +33,30 @@ namespace DataAccess
         {
             return _context.Polls;
         }
+
+        public void Vote(int pollId, int selectedOption)
+        {
+            var poll = _context.Polls.FirstOrDefault(p => p.Id == pollId);
+            if (poll == null)
+            {
+                return;
+            }
+
+            switch (selectedOption)
+            {
+                case 1:
+                    poll.Option1VotesCount++;
+                    break;
+                case 2:
+                    poll.Option2VotesCount++;
+                    break;
+                case 3:
+                    poll.Option3VotesCount++;
+                    break;
+                default:
+                    return;
+            }
+            _context.SaveChanges();
+        }
     }
 }

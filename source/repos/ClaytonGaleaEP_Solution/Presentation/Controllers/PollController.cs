@@ -19,6 +19,26 @@ namespace Presentation.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult Vote(int id)
+        {
+            var poll = _repository.GetAllPolls().FirstOrDefault(p => p.Id == id);
+            if(poll == null)
+            {
+                return View();
+            }
+            return View(poll);
+        }
+        [HttpPost]
+        public IActionResult Vote(int id, int selectedOption)
+        {
+           
+            _repository.Vote(id, selectedOption);
+            TempData["SuccessMessage"] = "Your vote was submitted successfully!";
+            return RedirectToAction("Index");
+        }
+
+
         //Method injection of poll
         [HttpPost]
         public IActionResult Create(Poll poll)
