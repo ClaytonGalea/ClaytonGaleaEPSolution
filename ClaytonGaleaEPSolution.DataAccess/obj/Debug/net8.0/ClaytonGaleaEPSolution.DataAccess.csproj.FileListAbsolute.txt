@@ -1,0 +1,16 @@
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\bin\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.deps.json
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\bin\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.dll
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\bin\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.pdb
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\bin\Debug\net8.0\ClaytonGaleaEPSolution.Domain.dll
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\bin\Debug\net8.0\ClaytonGaleaEPSolution.Domain.pdb
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.AssemblyInfo.cs
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.sourcelink.json
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonG.F8E0C097.Up2Date
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.dll
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\refint\ClaytonGaleaEPSolution.DataAccess.dll
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ClaytonGaleaEPSolution.DataAccess.pdb
+C:\Users\Clayt\source\repos\ClaytonGaleaEPSolution\ClaytonGaleaEPSolution.DataAccess\obj\Debug\net8.0\ref\ClaytonGaleaEPSolution.DataAccess.dll

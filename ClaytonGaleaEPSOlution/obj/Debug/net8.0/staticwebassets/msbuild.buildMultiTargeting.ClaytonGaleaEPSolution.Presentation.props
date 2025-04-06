@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClaytonGaleaEPSolution.Presentation.props" />
+</Project>

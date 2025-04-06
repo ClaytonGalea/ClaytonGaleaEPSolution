@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution\\claytongaleaepsolution.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|solutionrelative:claytongaleaepsolution\\claytongaleaepsolution.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.dataaccess\\polldbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|solutionrelative:claytongaleaepsolution.dataaccess\\polldbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.dataaccess\\claytongaleaepsolution.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|solutionrelative:claytongaleaepsolution.dataaccess\\claytongaleaepsolution.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|solutionrelative:claytongaleaepsolution.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.dataaccess\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|solutionrelative:claytongaleaepsolution.dataaccess\\pollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|solutionrelative:claytongaleaepsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|solutionrelative:claytongaleaepsolution\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F0BE7F-4305-4A13-B42D-FA159ECB6454}|ClaytonGaleaEPSolution.Domain\\ClaytonGaleaEPSolution.Domain.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F0BE7F-4305-4A13-B42D-FA159ECB6454}|ClaytonGaleaEPSolution.Domain\\ClaytonGaleaEPSolution.Domain.csproj|solutionrelative:claytongaleaepsolution.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|solutionrelative:claytongaleaepsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.dataaccess\\polldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D0C43-2E6C-4318-B447-6B8042FB512F}|ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj|solutionrelative:claytongaleaepsolution.dataaccess\\polldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F0BE7F-4305-4A13-B42D-FA159ECB6454}|ClaytonGaleaEPSolution.Domain\\ClaytonGaleaEPSolution.Domain.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution.domain\\models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F0BE7F-4305-4A13-B42D-FA159ECB6454}|ClaytonGaleaEPSolution.Domain\\ClaytonGaleaEPSolution.Domain.csproj|solutionrelative:claytongaleaepsolution.domain\\models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F41EB2-F83B-4DD1-9E61-4F06B0CA53EC}|Solution Items{31F41EB2-F83B-4DD1-9E61-4F06B0CA53EC}|C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSolution\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{31F41EB2-F83B-4DD1-9E61-4F06B0CA53EC}|Solution Items{31F41EB2-F83B-4DD1-9E61-4F06B0CA53EC}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution\\data\\migrations\\20250405114030_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|solutionrelative:claytongaleaepsolution\\data\\migrations\\20250405114030_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|c:\\users\\clayt\\source\\repos\\claytongaleaepsolution\\claytongaleaepsolution\\data\\migrations\\20250405112950_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}|ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj|solutionrelative:claytongaleaepsolution\\data\\migrations\\20250405112950_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PollDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\PollDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.DataAccess\\PollDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\PollDbContextFactory.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.DataAccess\\PollDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:44:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\appsettings.json",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSOlution\\appsettings.json",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\appsettings.json",
+              "RelativeToolTip": "ClaytonGaleaEPSOlution\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T11:15:24.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaytonGaleaEPSolution.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSolution\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSolution\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj",
+              "RelativeToolTip": "ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T09:11:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\PollRepository.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.DataAccess\\PollRepository.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\PollRepository.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.DataAccess\\PollRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:33:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\Class1.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:13:32.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaytonGaleaEPSolution.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSolution\\ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSolution\\ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.DataAccess\\ClaytonGaleaEPSolution.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T11:20:22.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSOlution\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\appsettings.Development.json",
+              "RelativeToolTip": "ClaytonGaleaEPSOlution\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T11:49:08.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\Program.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSOlution\\Program.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\Program.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSOlution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:43:03.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250405114030_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405114030_SecondMigration.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405114030_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405114030_SecondMigration.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405114030_SecondMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:40:30.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PollDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\PollDbContext.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.DataAccess\\PollDbContext.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.DataAccess\\PollDbContext.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.DataAccess\\PollDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:32:37.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Domain\\Class1.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:13:05.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Poll.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Domain\\Models\\Poll.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSolution.Domain\\Models\\Poll.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSolution.Domain\\Models\\Poll.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSolution.Domain\\Models\\Poll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:31:50.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250405112950_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405112950_FirstMigration.cs",
+              "RelativeDocumentMoniker": "ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405112950_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405112950_FirstMigration.cs",
+              "RelativeToolTip": "ClaytonGaleaEPSOlution\\Data\\Migrations\\20250405112950_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T11:29:50.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Clayt\\source\\repos\\ClaytonGaleaEPSOlution\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-04T16:22:42.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
