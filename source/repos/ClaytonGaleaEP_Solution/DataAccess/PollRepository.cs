@@ -11,13 +11,19 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-    public class PollRepository
+    
+    public class PollRepository : PollRepositoryInterface
     {
         private PollDbContext _context;
         public PollRepository(PollDbContext context)
         {
             _context = context;
         }
+        public IEnumerable<Poll> GetAll()
+        {
+            return _context.Polls.ToList(); 
+        }
+
         public void CreatePoll(Poll poll)
         {
             poll.Option1VotesCount = 0;
@@ -58,5 +64,7 @@ namespace DataAccess
             }
             _context.SaveChanges();
         }
+       
     }
+    
 }

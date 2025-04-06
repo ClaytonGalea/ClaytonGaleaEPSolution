@@ -1,4 +1,5 @@
 ﻿using DataAccess;
+using DataAccess.DataContext;
 using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,14 +7,16 @@ namespace Presentation.Controllers
 {
     public class PollController : Controller
     {
-        private PollRepository _repository;
+        //private PollRepository _repository;
+        private PollRepositoryInterface _repository;
 
         //Constructor injection
-        public PollController(PollRepository repository)
+        public PollController(PollRepositoryInterface repository)
         {
             _repository = repository;
         }
 
+        
         public IActionResult Create()
         {
             return View();
@@ -56,5 +59,6 @@ namespace Presentation.Controllers
             return View(polls);
         }
 
+        
     }
 }
